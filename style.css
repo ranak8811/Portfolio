@@ -271,7 +271,7 @@ p {
 }
 
 .skills-container li.js::after {
-  animation: js;
+  animation-name: js;
 }
 
 @keyframes js {
